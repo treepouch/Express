@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+  <% include templates/header.ejs  %>
+    <h1><%= locals.name + "'s " + title %></h1>
+    <p>Welcome to <%= title %> World</p>
+    <ul>
+    <% namesdata.results.forEach((item, i) => { %>
+        <li><%= i + 1 + ". " + item.name.first + " " + item.name.last %></li>
+     <% }); %>
+    </ul>
+
+<% if (errors) {
+%>
+ <ul>
+    <% errors.forEach(item => { %>
+        <li><%= item.msg %></li>
+     <% }); %>
+    </ul>
+<% }
+%>
+
+    <form method="post" action="/users/add">
+    First Name:<br>
+    <input type="text" name="firstname"/><br>
+    Last Name:<br>
+     <input type="text" name="lastname"/><br>
+     Email:<br>
+      <input type="text" name="email"/><br>
+    <input type="submit" value="Submit" />
+
+    </form>
+  </body>
+</html>

@@ -1,0 +1,269 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "judd",
+        "last": "ellis"
+      },
+      "location": {
+        "street": "5730 depaul dr",
+        "city": "pompano beach",
+        "state": "colorado",
+        "postcode": 35999
+      },
+      "email": "judd.ellis@example.com",
+      "login": {
+        "username": "purplebird253",
+        "password": "greg",
+        "salt": "vhAgHE8j",
+        "md5": "4e0bac38e14d80403bfbd18aba4048f8",
+        "sha1": "550c8431d26b3c17a11fa809fbdc5b5064ce118b",
+        "sha256": "25a9e2314e4c53b7ac47fafcdfc43034bd157474bd7c92aabd59535616ff9635"
+      },
+      "dob": "1986-04-22 22:06:13",
+      "registered": "2011-12-13 09:09:45",
+      "phone": "(698)-976-3163",
+      "cell": "(187)-893-5249",
+      "id": {
+        "name": "SSN",
+        "value": "206-32-3060"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/10.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "alfredo",
+        "last": "wallace"
+      },
+      "location": {
+        "street": "7983 w campbell ave",
+        "city": "irving",
+        "state": "oklahoma",
+        "postcode": 44579
+      },
+      "email": "alfredo.wallace@example.com",
+      "login": {
+        "username": "greengorilla220",
+        "password": "javier",
+        "salt": "gEk6N04f",
+        "md5": "d147439215a9d2eaf6460fa8afa94cba",
+        "sha1": "0138ff7d15f12b01de14ff63d6331bb4c178fe91",
+        "sha256": "8052e9acdf336235675d3c28059aecfd5058c6696a8326e107aee44ffebdfa86"
+      },
+      "dob": "1945-09-02 09:20:55",
+      "registered": "2009-10-05 06:56:47",
+      "phone": "(504)-010-3043",
+      "cell": "(214)-965-7017",
+      "id": {
+        "name": "SSN",
+        "value": "654-84-6363"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/84.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/84.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/84.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "allen",
+        "last": "hernandez"
+      },
+      "location": {
+        "street": "1714 green rd",
+        "city": "modesto",
+        "state": "wisconsin",
+        "postcode": 74844
+      },
+      "email": "allen.hernandez@example.com",
+      "login": {
+        "username": "brownostrich115",
+        "password": "wild",
+        "salt": "s1To2J9I",
+        "md5": "ddfa5329ee10ac33d4ef0a7b84a866fa",
+        "sha1": "6821d9be0ab403044489080ad8a042d75cd6138a",
+        "sha256": "3563de7f1b42188ffa3df2f244d5295f5c46cc0df348bcd3027c0f666405dbe5"
+      },
+      "dob": "1985-01-26 17:24:59",
+      "registered": "2005-05-23 14:31:14",
+      "phone": "(204)-233-7428",
+      "cell": "(810)-548-9415",
+      "id": {
+        "name": "SSN",
+        "value": "672-90-7225"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/69.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/69.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/69.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "miss",
+        "first": "heather",
+        "last": "black"
+      },
+      "location": {
+        "street": "8458 valley view ln",
+        "city": "utica",
+        "state": "oregon",
+        "postcode": 65778
+      },
+      "email": "heather.black@example.com",
+      "login": {
+        "username": "organicostrich416",
+        "password": "snatch",
+        "salt": "1aSQ4Xwy",
+        "md5": "7672fdd5e8d30f3e115515beaf6273ca",
+        "sha1": "d222b7e7a53c2494270098eb5d7731b12adae2af",
+        "sha256": "3351126a7271cfc9ca18b22893c83b75ec64b253f0c166d556ae394b9422410c"
+      },
+      "dob": "1995-02-05 16:58:31",
+      "registered": "2014-12-04 22:59:20",
+      "phone": "(826)-578-2031",
+      "cell": "(182)-307-4768",
+      "id": {
+        "name": "SSN",
+        "value": "090-66-2366"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/62.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/62.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/62.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "miss",
+        "first": "vicki",
+        "last": "peck"
+      },
+      "location": {
+        "street": "8811 brown terrace",
+        "city": "chandler",
+        "state": "california",
+        "postcode": 47286
+      },
+      "email": "vicki.peck@example.com",
+      "login": {
+        "username": "organicfish964",
+        "password": "0000",
+        "salt": "89EvK8YU",
+        "md5": "742dbad8a057fca9050300c89ca9d3c8",
+        "sha1": "63e142559e4e9d1426559589bd0e7a376386b3f5",
+        "sha256": "c60465d7d7f32adf6c6c5192c81717a0cd37b04ab7cdde99a37381e5173767ac"
+      },
+      "dob": "1955-08-15 00:47:21",
+      "registered": "2014-12-08 07:25:36",
+      "phone": "(005)-696-3823",
+      "cell": "(328)-502-0867",
+      "id": {
+        "name": "SSN",
+        "value": "134-75-3782"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/79.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/79.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/79.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "ms",
+        "first": "joyce",
+        "last": "morales"
+      },
+      "location": {
+        "street": "2485 harrison ct",
+        "city": "arvada",
+        "state": "delaware",
+        "postcode": 70710
+      },
+      "email": "joyce.morales@example.com",
+      "login": {
+        "username": "smallswan609",
+        "password": "maddie",
+        "salt": "wxQRipYT",
+        "md5": "dd8e4fd06fac587073cf200ace18966f",
+        "sha1": "d59fb242929d66b02018a2ff64196afb9138f374",
+        "sha256": "d4c47072743a337584e0b618028361fa4ae21c95d014eb488ed63caa7929a7bd"
+      },
+      "dob": "1979-05-03 09:54:29",
+      "registered": "2007-09-23 02:33:25",
+      "phone": "(028)-090-6133",
+      "cell": "(431)-925-2432",
+      "id": {
+        "name": "SSN",
+        "value": "618-08-1898"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/52.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "aaron",
+        "last": "flores"
+      },
+      "location": {
+        "street": "7835 hunters creek dr",
+        "city": "norwalk",
+        "state": "new jersey",
+        "postcode": 96960
+      },
+      "email": "aaron.flores@example.com",
+      "login": {
+        "username": "tinysnake412",
+        "password": "christ",
+        "salt": "4gIVe7Rf",
+        "md5": "242c38b438a48b6272028856517f6865",
+        "sha1": "a87e8b55a24ec9e77e151299317107f5ad3ec997",
+        "sha256": "03f8607db120a38dffe97c3b0dd6e550efeb13c876af34ed6c1e49fc4216aa36"
+      },
+      "dob": "1972-10-13 07:46:16",
+      "registered": "2005-08-03 02:47:03",
+      "phone": "(135)-814-1693",
+      "cell": "(326)-332-7716",
+      "id": {
+        "name": "SSN",
+        "value": "023-99-9669"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/56.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
+      },
+      "nat": "US"
+    }
+  ],
+  "info": {
+    "seed": "60707d1496f33705",
+    "results": 7,
+    "page": 1,
+    "version": "1.1"
+  }
+}
